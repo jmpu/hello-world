@@ -5,4 +5,4 @@ do some edits for readme-edits branch.
 
 make some change
 
-fix #1
+fix #3
